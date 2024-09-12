@@ -5,7 +5,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 353,1003,Paseo Zorrilla 52 esquina Paseo Hospital Militar,Parada,41.6437868696237,-4.73556142304993,,http://www.auvasa.es/mapa-de-servicios/?parada=353,,,Europe/Madrid
 355,1006,Calle Lucio Zumel esquina Avenida Soria,Parada,41.613388139184,-4.68877305291374,,http://www.auvasa.es/mapa-de-servicios/?parada=355,,,Europe/Madrid
 356,1007,Calle Doctrinos 12 esquina María de Molina,Parada,41.64940703773,-4.73116000429171,,http://www.auvasa.es/mapa-de-servicios/?parada=356,,,Europe/Madrid
-357,1025,Plaza Poniente frente San Lorenzo,Parada,41.652707040874,-4.73115100392404,,http://www.auvasa.es/mapa-de-servicios/?parada=357,,,Europe/Madrid
 358,1038,Paseo Zorrilla 187 esquina Vinos Vega Sicilia,Parada,41.6196465271162,-4.74790558854684,,http://www.auvasa.es/mapa-de-servicios/?parada=358,,,Europe/Madrid
 359,1039,Paseo Zorrilla 346 esquina Vinos Ribera de Duero,Parada,41.6194764746951,-4.74826800226399,,http://www.auvasa.es/mapa-de-servicios/?parada=359,,,Europe/Madrid
 360,1043,Paseo Zorrilla 203 esquina Vinos de Cigales,Parada,41.6170100490037,-4.74814126863808,,http://www.auvasa.es/mapa-de-servicios/?parada=360,,,Europe/Madrid
@@ -104,7 +103,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 453,1234,Camino Viejo Simancas frente 167 esquina Barcelona,Parada,41.6179781266127,-4.76160321501058,,http://www.auvasa.es/mapa-de-servicios/?parada=453,,,Europe/Madrid
 454,1235,Calle Alamillos 11,Parada,41.6543323948332,-4.71606323014305,,http://www.auvasa.es/mapa-de-servicios/?parada=454,,,Europe/Madrid
 455,1237,Calle Adolfo Miaja de la Muela frente Padre Llanos,Parada,41.6416591865929,-4.75611136750617,,http://www.auvasa.es/mapa-de-servicios/?parada=455,,,Europe/Madrid
-456,1238,Calle Adolfo Miaja de la Muela esquina Padre Llanos,Parada,41.6405752737324,-4.7557882662324,,http://www.auvasa.es/mapa-de-servicios/?parada=456,,,Europe/Madrid
 457,1239,Calle Adolfo Miaja de la Muela Residencia Doctor Villacián,Parada,41.6386491731789,-4.75390639676364,,http://www.auvasa.es/mapa-de-servicios/?parada=457,,,Europe/Madrid
 458,1247,Calle Mieses esquina Barbecho,Parada,41.6508937381901,-4.74699376572176,,http://www.auvasa.es/mapa-de-servicios/?parada=458,,,Europe/Madrid
 459,1248,Calle Mieses esquina Monasterio Santa María Retuerta,Parada,41.6507024847843,-4.74747200490314,,http://www.auvasa.es/mapa-de-servicios/?parada=459,,,Europe/Madrid
@@ -222,6 +220,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2917,1408,El Pinar de Antequera hacia Pte Duero,Parada,41.5879349661796,-4.75586555196679,,http://www.auvasa.es/mapa-de-servicios/?parada=2917,,,Europe/Madrid
 2919,1409,Calle Andrómeda esquina Orden de Malta,Parada,41.6551270078788,-4.70514614640447,,http://www.auvasa.es/mapa-de-servicios/?parada=2919,,,Europe/Madrid
 2920,1410,Calle Andrómeda frente Orden de Malta,Parada,41.6552348751786,-4.70521430163913,,http://www.auvasa.es/mapa-de-servicios/?parada=2920,,,Europe/Madrid
+2923,1411,Calle Madre de Dios 6,Parada,41.6580863355115,-4.71734880738889,,http://www.auvasa.es/mapa-de-servicios/?parada=2923,,,Europe/Madrid
 2938,1413,Calle Víctimas del Terrorismo fte. Hospital Río Hortega,Parada,41.631830298188,-4.71352659888684,,http://www.auvasa.es/mapa-de-servicios/?parada=2938,,,Europe/Madrid
 3089,1414,Calle Arribes del Duero esq. Cañón del Río Lobos,Parada,41.6266097951516,-4.71180036672507,,http://www.auvasa.es/mapa-de-servicios/?parada=3089,,,Europe/Madrid
 3090,1415,Calle Picos de Europa esq. Sierra de Gredos,Parada,41.6248283959958,-4.71376642593365,,http://www.auvasa.es/mapa-de-servicios/?parada=3090,,,Europe/Madrid
@@ -278,6 +277,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 47,618,Avenida Soria esquina Diego Velázquez,Parada,41.6088512581672,-4.68437314398953,,http://www.auvasa.es/mapa-de-servicios/?parada=47,,,Europe/Madrid
 48,619,Calle Castillejo frente 4-6,Parada,41.611042773221,-4.68404804514299,,http://www.auvasa.es/mapa-de-servicios/?parada=48,,,Europe/Madrid
 49,621,Paseo Isabel La Católica Plaza Poniente,Parada,41.6533270395783,-4.73208799966472,,http://www.auvasa.es/mapa-de-servicios/?parada=49,,,Europe/Madrid
+50,622,Paseo Isabel La Católica Instituto Núñez de Arce,Parada,41.6545830414661,-4.73180799877533,,http://www.auvasa.es/mapa-de-servicios/?parada=50,,,Europe/Madrid
 51,623,Paseo Isabel La Católica 27 esquina Conde Benavente,Parada,41.6580170385054,-4.73131999741435,,http://www.auvasa.es/mapa-de-servicios/?parada=51,,,Europe/Madrid
 52,624,Paseo del Cauce frente Ing. Industriales,Parada,41.6562232285455,-4.71109018582816,,http://www.auvasa.es/mapa-de-servicios/?parada=52,,,Europe/Madrid
 53,625,Paseo del Cauce frente Centro Salud Pilarica,Parada,41.6537990418717,-4.71141600466154,,http://www.auvasa.es/mapa-de-servicios/?parada=53,,,Europe/Madrid
@@ -371,7 +371,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 146,755,Calle La Morena 3 Bloque 2,Parada,41.6568260437464,-4.74244599636636,,http://www.auvasa.es/mapa-de-servicios/?parada=146,,,Europe/Madrid
 147,757,Avenida Gloria Fuertes 1 esquina Joaquín Velasco Martín,Parada,41.6533800423541,-4.73661799849766,,http://www.auvasa.es/mapa-de-servicios/?parada=147,,,Europe/Madrid
 148,759,Avenida Gloria Fuertes 4 esquina Avenida Salamanca,Parada,41.6535420387106,-4.73660300429376,,http://www.auvasa.es/mapa-de-servicios/?parada=148,,,Europe/Madrid
-151,767,Calle Daniel del Olmo esquina Paseo Zorrilla,Parada,41.6298741942053,-4.74034344509989,,http://www.auvasa.es/mapa-de-servicios/?parada=151,,,Europe/Madrid
 155,771,Calle Títulos esquina Guindal,Parada,41.6913679146325,-4.71279619246588,,http://www.auvasa.es/mapa-de-servicios/?parada=155,,,Europe/Madrid
 156,772,Calle Títulos frente Guindal,Parada,41.6914425509529,-4.71279791908859,,http://www.auvasa.es/mapa-de-servicios/?parada=156,,,Europe/Madrid
 157,773,Calle Títulos frente Los Traductores,Parada,41.6785226772608,-4.72132514632503,,http://www.auvasa.es/mapa-de-servicios/?parada=157,,,Europe/Madrid
@@ -414,6 +413,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 194,814,Plaza España 12 Iglesia Capuchinos,Parada,41.6487147575976,-4.72486888224501,,http://www.auvasa.es/mapa-de-servicios/?parada=194,,,Europe/Madrid
 195,815,Plaza España 13 frente Bola del Mundo,Parada,41.6486789883344,-4.72522043393598,,http://www.auvasa.es/mapa-de-servicios/?parada=195,,,Europe/Madrid
 196,816,Plaza Carmen Ferreiro,Parada,41.6676742321334,-4.70687015279278,,http://www.auvasa.es/mapa-de-servicios/?parada=196,,,Europe/Madrid
+197,817,Plaza Doctor Jiménez Díaz esquina Penitencia,Parada,41.6594593596245,-4.71553223619398,,http://www.auvasa.es/mapa-de-servicios/?parada=197,,,Europe/Madrid
 198,818,Plaza Madrid 2,Parada,41.6481450383894,-4.72548199479114,,http://www.auvasa.es/mapa-de-servicios/?parada=198,,,Europe/Madrid
 199,819,Plaza Mayor frente 29 (La Cistérniga),Parada,41.6120791710353,-4.68617923875876,,http://www.auvasa.es/mapa-de-servicios/?parada=199,,,Europe/Madrid
 200,820,Plaza Mayor 29 (La Cistérniga),Parada,41.6119516782602,-4.6862865564907,,http://www.auvasa.es/mapa-de-servicios/?parada=200,,,Europe/Madrid
@@ -466,6 +466,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 248,875,Calle Santa Lucía 62 esquina Plaza Luis Braille,Parada,41.6518770381963,-4.71401699534218,,http://www.auvasa.es/mapa-de-servicios/?parada=248,,,Europe/Madrid
 249,876,Avenida Santander Poblado Endasa,Parada,41.6643060385063,-4.71324499906135,,http://www.auvasa.es/mapa-de-servicios/?parada=249,,,Europe/Madrid
 250,877,Avenida Santander frente Poblado Endasa,Parada,41.6641820441446,-4.71302200336391,,http://www.auvasa.es/mapa-de-servicios/?parada=250,,,Europe/Madrid
+251,878,Avenida Santander Centro Comercial,Parada,41.6685000416209,-4.70807499935811,,http://www.auvasa.es/mapa-de-servicios/?parada=251,,,Europe/Madrid
+252,879,Avenida Santander 49 Barrio España,Parada,41.6660875682307,-4.71110840440754,,http://www.auvasa.es/mapa-de-servicios/?parada=252,,,Europe/Madrid
 253,880,Avenida Santander 8 frente Barrio España,Parada,41.6666647249963,-4.71009226435519,,http://www.auvasa.es/mapa-de-servicios/?parada=253,,,Europe/Madrid
 254,881,Calle Santuario 5 esquina López Gómez,Parada,41.6501160371502,-4.72351400324376,,http://www.auvasa.es/mapa-de-servicios/?parada=254,,,Europe/Madrid
 255,882,Calle Transición 3,Parada,41.6315058110741,-4.72549665290546,,http://www.auvasa.es/mapa-de-servicios/?parada=255,,,Europe/Madrid
@@ -479,7 +481,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 264,891,Avenida Segovia 88 esquina Hornija,Parada,41.6330380541628,-4.72103980542277,,http://www.auvasa.es/mapa-de-servicios/?parada=264,,,Europe/Madrid
 265,892,Avenida Segovia 99 esquina Olmedo,Parada,41.6394970449884,-4.72076599934209,,http://www.auvasa.es/mapa-de-servicios/?parada=265,,,Europe/Madrid
 266,895,Camino Viejo Simancas Urb. Las Aceñas,Parada,41.5884539515539,-4.81528698534835,,http://www.auvasa.es/mapa-de-servicios/?parada=266,,,Europe/Madrid
-267,896,Camino Viejo Simancas El Barrio,Parada,41.610179084531,-4.77892907873597,,http://www.auvasa.es/mapa-de-servicios/?parada=267,,,Europe/Madrid
+267,896,Camino Viejo Simancas fte. El Barrio,Parada,41.610179084531,-4.77892907873597,,http://www.auvasa.es/mapa-de-servicios/?parada=267,,,Europe/Madrid
 268,897,Camino Viejo Simancas Las Lagunillas,Parada,41.5926833434216,-4.80708618595723,,http://www.auvasa.es/mapa-de-servicios/?parada=268,,,Europe/Madrid
 269,898,Camino Viejo Simancas esquina Encinas,Parada,41.5962752467008,-4.80314193343029,,http://www.auvasa.es/mapa-de-servicios/?parada=269,,,Europe/Madrid
 270,900,Camino Viejo Simancas Pago La Bomba,Parada,41.6022865328748,-4.79508375173611,,http://www.auvasa.es/mapa-de-servicios/?parada=270,,,Europe/Madrid
@@ -488,13 +490,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 273,903,Camino Viejo Simancas 44 frente Centro Comercial,Parada,41.6241974134278,-4.75159179581697,,http://www.auvasa.es/mapa-de-servicios/?parada=273,,,Europe/Madrid
 274,904,Camino Viejo Simancas Barrio Las Villas,Parada,41.6218589410016,-4.75505896859996,,http://www.auvasa.es/mapa-de-servicios/?parada=274,,,Europe/Madrid
 275,905,Camino Viejo Simancas frente Urb. Las Aceñas,Parada,41.5886405189066,-4.81513687527414,,http://www.auvasa.es/mapa-de-servicios/?parada=275,,,Europe/Madrid
-276,906,Camino Viejo Simancas frente El Barrio,Parada,41.6098280412557,-4.77995400004818,,http://www.auvasa.es/mapa-de-servicios/?parada=276,,,Europe/Madrid
+276,906,Camino Viejo Simancas El Barrio,Parada,41.6098280412557,-4.77995400004818,,http://www.auvasa.es/mapa-de-servicios/?parada=276,,,Europe/Madrid
 277,907,Camino Viejo Simancas frente Las Lagunillas,Parada,41.5928089932893,-4.80721715459685,,http://www.auvasa.es/mapa-de-servicios/?parada=277,,,Europe/Madrid
 278,908,Camino Viejo Simancas frente Encinas,Parada,41.5963779156098,-4.80348305839563,,http://www.auvasa.es/mapa-de-servicios/?parada=278,,,Europe/Madrid
 279,910,Camino Viejo Simancas frente Pago La Bomba,Parada,41.6022959428178,-4.79547123305085,,http://www.auvasa.es/mapa-de-servicios/?parada=279,,,Europe/Madrid
 280,911,Camino Viejo Simancas frente El Pichón,Parada,41.6002380074768,-4.79783031501623,,http://www.auvasa.es/mapa-de-servicios/?parada=280,,,Europe/Madrid
 281,912,Camino Viejo Simancas frente El Pino,Parada,41.6052701187471,-4.78900259349044,,http://www.auvasa.es/mapa-de-servicios/?parada=281,,,Europe/Madrid
-282,913,Camino Viejo Simancas 45 Centro Comercial,Parada,41.6241670368917,-4.75130600185646,,http://www.auvasa.es/mapa-de-servicios/?parada=282,,,Europe/Madrid
+282,913,Camino Viejo Simancas Centro Comercial,Parada,41.6241670368917,-4.75130600185646,,http://www.auvasa.es/mapa-de-servicios/?parada=282,,,Europe/Madrid
 283,914,Camino Viejo Simancas frente Las Villas,Parada,41.6219448797451,-4.7553535322391,,http://www.auvasa.es/mapa-de-servicios/?parada=283,,,Europe/Madrid
 284,915,Camino Viejo Simancas frente INEA,Parada,41.6036393017146,-4.79233511511213,,http://www.auvasa.es/mapa-de-servicios/?parada=284,,,Europe/Madrid
 285,916,Camino Viejo Simancas 21 Centro Educativo,Parada,41.6256900438205,-4.74854899588806,,http://www.auvasa.es/mapa-de-servicios/?parada=285,,,Europe/Madrid
