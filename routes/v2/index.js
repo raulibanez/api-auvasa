@@ -10,6 +10,7 @@ const {
   getSuspendedStops,
   getTripSequence,
   getGbfsParadas,
+  checkServicesStatus,
 } = require('../../lib/v2');
 const { getAllCacheKeys } = require('../../lib/utils');
 
@@ -408,6 +409,36 @@ routes.get('/tripSequence/:tripId', async (req, res) => {
 routes.get('/gbfs/paradas', async (req, res) => {
   const response = await getGbfsParadas();
   return res.json(response);
+});
+
+/**
+ * @openapi
+ * /status:
+ *   get:
+ *     tags:
+ *       - Status
+ *     summary: Obtiene el estado de los servicios GTFS y GBFS
+ *     responses:
+ *       200:
+ *         description: Estado de los servicios
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 gtfs:
+ *                   type: object
+ *                   properties:
+ *                     static:
+ *                       type: boolean
+ *                     realtime:
+ *                       type: boolean
+ *                 gbfs:
+ *                   type: boolean
+ */
+routes.get('/status', async (req, res) => {
+  const status = await checkServicesStatus();
+  return res.json(status);
 });
 
 module.exports = routes;
