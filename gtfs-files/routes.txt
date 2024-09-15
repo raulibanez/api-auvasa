@@ -21,9 +21,9 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 24,101,24,La Overuela - Pza. Poniente,,3,http://www.auvasa.es/mapa-de-servicios/?linea=24,0F4895,FFFFFF
 26,101,26,Plaza España - San Juan de Dios,,3,http://www.auvasa.es/mapa-de-servicios/?linea=26,80D0F7,000000
 35,101,H,Paseo Zorrilla 71 - Hospital Río Hortega,,3,http://www.auvasa.es/mapa-de-servicios/?linea=35,E42333,000000
-36,101,LP,Parquesol - Centro,,3,http://www.auvasa.es/mapa-de-servicios/?linea=36,00CDAE,FFFFFF
-37,101,LC,Covaresa-Centro,,3,http://www.auvasa.es/mapa-de-servicios/?linea=37,7DDE42,000000
-38,101,LD,Delicias-Centro,,3,http://www.auvasa.es/mapa-de-servicios/?linea=38,D536FD,000000
+36,101,LP,Parquesol - Estaciones - Centro,,3,http://www.auvasa.es/mapa-de-servicios/?linea=36,00CDAE,FFFFFF
+37,101,LC,Covaresa - Estaciones - Centro,,3,http://www.auvasa.es/mapa-de-servicios/?linea=37,7DDE42,000000
+38,101,LD,Delicias - Estaciones - Centro,,3,http://www.auvasa.es/mapa-de-servicios/?linea=38,D536FD,000000
 41,101,P1,San Pedro Regalado - Polígono Argales - Rubia,,3,http://www.auvasa.es/mapa-de-servicios/?linea=41,792B37,FFFFFF
 42,101,P2,Barrio España - Polígono Argales - Covaresa,,3,http://www.auvasa.es/mapa-de-servicios/?linea=42,792B37,FFFFFF
 43,101,P3,La Victoria - Polígono San Cristóbal,,3,http://www.auvasa.es/mapa-de-servicios/?linea=43,792B37,FFFFFF
@@ -51,11 +51,5 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 405,101,M5,Parquesol - Plaza de España,,3,http://www.auvasa.es/mapa-de-servicios/?linea=405,532FA2,FFFFFF
 406,101,M6,Las Flores - Fuente Dorada,,3,http://www.auvasa.es/mapa-de-servicios/?linea=406,532FA2,FFFFFF
 407,101,M7,La Cistérniga - Fuente Dorada,,3,http://www.auvasa.es/mapa-de-servicios/?linea=407,532FA2,FFFFFF
-900,101,R,Ferias - Pza. Poniente,,3,http://www.auvasa.es/mapa-de-servicios/?linea=900,3B1391,FFFFFF
-901,101,R1,Ferias - San Pedro R,,3,http://www.auvasa.es/mapa-de-servicios/?linea=901,3B1391,FFFFFF
-902,101,R2,Ferias - Covaresa,,3,http://www.auvasa.es/mapa-de-servicios/?linea=902,3B1391,FFFFFF
-903,101,R3,Ferias - La Victoria,,3,http://www.auvasa.es/mapa-de-servicios/?linea=903,3B1391,FFFFFF
-904,101,R4,Ferias - Las Flores,,3,http://www.auvasa.es/mapa-de-servicios/?linea=904,3B1391,FFFFFF
-905,101,R5,Ferias - Bº Belén,,3,http://www.auvasa.es/mapa-de-servicios/?linea=905,3B1391,FFFFFF
 951,101,U1,Covaresa - Universidad (Campus Miguel Delibes),,3,http://www.auvasa.es/mapa-de-servicios/?linea=951,FF3067,000000
 952,101,U8,Parquesol - Universidad (Campus Miguel Delibes),,3,http://www.auvasa.es/mapa-de-servicios/?linea=952,FF3067,000000
