@@ -53,6 +53,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 404,1156,Calle Acera Recoletos frente 2 esquina Pza Zorrilla,Parada,41.6477688650087,-4.72904940268662,,http://www.auvasa.es/mapa-de-servicios/?parada=404,,,Europe/Madrid
 405,1158,Calle Chancillería 5,Parada,41.6570370157701,-4.72005049992985,,http://www.auvasa.es/mapa-de-servicios/?parada=405,,,Europe/Madrid
 406,1159,Calle Colón 14,Parada,41.6532773141477,-4.71779350091781,,http://www.auvasa.es/mapa-de-servicios/?parada=406,,,Europe/Madrid
+407,1161,Calle Arca Real frente 163,Parada,41.6208383645088,-4.7315199674096,,http://www.auvasa.es/mapa-de-servicios/?parada=407,,,Europe/Madrid
 408,1163,Calle Estación del Norte RENFE,Parada,41.643250885542,-4.7269143209713,,http://www.auvasa.es/mapa-de-servicios/?parada=408,,,Europe/Madrid
 409,1164,Paseo Jardín Botánico esquina Brezo,Parada,41.672766433045,-4.73055000396716,,http://www.auvasa.es/mapa-de-servicios/?parada=409,,,Europe/Madrid
 410,1165,Calle Jara esquina Hierbabuena,Parada,41.6709069776056,-4.73053126918975,,http://www.auvasa.es/mapa-de-servicios/?parada=410,,,Europe/Madrid
@@ -198,6 +199,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 553,1380,Calle El Barbero de Sevilla esquina Flauta Mágica,Parada,41.6839385344012,-4.74147883748882,,http://www.auvasa.es/mapa-de-servicios/?parada=553,,,Europe/Madrid
 554,1381,Calle Flauta Mágica esquina Parsifal,Parada,41.6853856524909,-4.73782938048033,,http://www.auvasa.es/mapa-de-servicios/?parada=554,,,Europe/Madrid
 555,1382,Plaza Madrid fuente,Parada,41.6480565919689,-4.72577314029632,,http://www.auvasa.es/mapa-de-servicios/?parada=555,,,Europe/Madrid
+556,1383,Calle Arca Real 163,Parada,41.6204995012145,-4.73140597352642,,http://www.auvasa.es/mapa-de-servicios/?parada=556,,,Europe/Madrid
 557,1384,Avenida Zamora frente Las Arcas,Parada,41.6181836192984,-4.73230104545384,,http://www.auvasa.es/mapa-de-servicios/?parada=557,,,Europe/Madrid
 558,1385,Avenida Zamora Colegio San Agustín,Parada,41.6175218294851,-4.72618382593292,,http://www.auvasa.es/mapa-de-servicios/?parada=558,,,Europe/Madrid
 559,1387,Calle Dos de Mayo esquina Divina Pastora,Parada,41.6478184429961,-4.72507910250987,,http://www.auvasa.es/mapa-de-servicios/?parada=559,,,Europe/Madrid
