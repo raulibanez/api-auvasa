@@ -233,6 +233,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3092,1417,Calle Arribes del Duero fte. Cañón del Río Lobos,Parada,41.6270538841816,-4.71132025131124,,http://www.auvasa.es/mapa-de-servicios/?parada=3092,,,Europe/Madrid
 3093,1418,Calle Carabela fte. Galeón,Parada,41.6790683104883,-4.74560692916131,,http://www.auvasa.es/mapa-de-servicios/?parada=3093,,,Europe/Madrid
 3105,1419,Calle Martín Santos Romero fte. José María Castilviejo,Parada,41.6334843113548,-4.77035567175164,,http://www.auvasa.es/mapa-de-servicios/?parada=3105,,,Europe/Madrid
+3125,1420,Avenida Soria 32,Parada,41.6154373934725,-4.69076111920521,,http://www.auvasa.es/mapa-de-servicios/?parada=3125,,,Europe/Madrid
+3126,1421,Avenida Soria frente 32,Parada,41.6152559162,-4.69076246030972,,http://www.auvasa.es/mapa-de-servicios/?parada=3126,,,Europe/Madrid
 1,550,Calle Hernando de Acuña 1 esquina Mateo Seoane S.,Parada,41.6379983836047,-4.75574461249468,,http://www.auvasa.es/mapa-de-servicios/?parada=1,,,Europe/Madrid
 2,551,Calle Hernando de Acuña 13 esquina Manuel Silvela,Parada,41.637992139995,-4.75843566197342,,http://www.auvasa.es/mapa-de-servicios/?parada=2,,,Europe/Madrid
 3,552,Calle Hernando de Acuña 18 esquina Manuel Silvela,Parada,41.6381753268001,-4.75855368880795,,http://www.auvasa.es/mapa-de-servicios/?parada=3,,,Europe/Madrid
@@ -471,10 +473,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 247,872,Calle San Cristóbal 15 esquina Avenida Soria,Parada,41.6123210416375,-4.6880429975807,,http://www.auvasa.es/mapa-de-servicios/?parada=247,,,Europe/Madrid
 248,875,Calle Santa Lucía 62 esquina Plaza Luis Braille,Parada,41.6518770381963,-4.71401699534218,,http://www.auvasa.es/mapa-de-servicios/?parada=248,,,Europe/Madrid
 249,876,Avenida Santander Poblado Endasa,Parada,41.6643060385063,-4.71324499906135,,http://www.auvasa.es/mapa-de-servicios/?parada=249,,,Europe/Madrid
-250,877,Avenida Santander frente Poblado Endasa,Parada,41.6641820441446,-4.71302200336391,,http://www.auvasa.es/mapa-de-servicios/?parada=250,,,Europe/Madrid
+250,877,Avenida Santander frente Poblado Endasa,Parada,41.6648113101599,-4.71243068584387,,http://www.auvasa.es/mapa-de-servicios/?parada=250,,,Europe/Madrid
 251,878,Avenida Santander Centro Comercial,Parada,41.6685000416209,-4.70807499935811,,http://www.auvasa.es/mapa-de-servicios/?parada=251,,,Europe/Madrid
 252,879,Avenida Santander 49 Barrio España,Parada,41.6660875682307,-4.71110840440754,,http://www.auvasa.es/mapa-de-servicios/?parada=252,,,Europe/Madrid
-253,880,Avenida Santander 8 frente Barrio España,Parada,41.6666647249963,-4.71009226435519,,http://www.auvasa.es/mapa-de-servicios/?parada=253,,,Europe/Madrid
+253,880,Avenida Santander 8 frente Barrio España,Parada,41.6669352343606,-4.70979273327682,,http://www.auvasa.es/mapa-de-servicios/?parada=253,,,Europe/Madrid
 254,881,Calle Santuario 5 esquina López Gómez,Parada,41.6501160371502,-4.72351400324376,,http://www.auvasa.es/mapa-de-servicios/?parada=254,,,Europe/Madrid
 255,882,Calle Transición 3,Parada,41.6315058110741,-4.72549665290546,,http://www.auvasa.es/mapa-de-servicios/?parada=255,,,Europe/Madrid
 256,883,Avenida Segovia frente Iglesia del Carmen,Parada,41.637717360319,-4.72192238439518,,http://www.auvasa.es/mapa-de-servicios/?parada=256,,,Europe/Madrid
