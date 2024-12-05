@@ -73,7 +73,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 424,1185,Paseo Filipinos esquina Paseo Zorrilla,Parada,41.6446993777185,-4.73290763723593,,http://www.auvasa.es/mapa-de-servicios/?parada=424,,,Europe/Madrid
 425,1187,Calle Cádiz 15,Parada,41.6430345345075,-4.71584947280657,,http://www.auvasa.es/mapa-de-servicios/?parada=425,,,Europe/Madrid
 426,1189,Carretera Fuensaldaña esquina Subida Fuente el Sol,Parada,41.6696867704814,-4.73632952098898,,http://www.auvasa.es/mapa-de-servicios/?parada=426,,,Europe/Madrid
-427,1190,Calle Fuente del Berrocal frente Gasolinera,Parada,41.6817310424604,-4.74194500373976,,http://www.auvasa.es/mapa-de-servicios/?parada=427,,,Europe/Madrid
+427,1190,Calle Fuente del Berrocal frente Gasolinera,Parada,41.6816094354349,-4.74179551014968,,http://www.auvasa.es/mapa-de-servicios/?parada=427,,,Europe/Madrid
 428,1191,Avenida Valle Esgueva frente 81 esquina Incienso,Parada,41.6595314696829,-4.70708796636562,,http://www.auvasa.es/mapa-de-servicios/?parada=428,,,Europe/Madrid
 429,1192,Calle Málaga esquina Bilbao,Parada,41.64426388642,-4.71498631472622,,http://www.auvasa.es/mapa-de-servicios/?parada=429,,,Europe/Madrid
 430,1193,Calle Sementera esquina Mieses,Parada,41.65775090496,-4.74033750136079,,http://www.auvasa.es/mapa-de-servicios/?parada=430,,,Europe/Madrid
