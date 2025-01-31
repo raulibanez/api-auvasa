@@ -221,7 +221,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 575,1403,Calle Cuesta Redonda Piscinas Municipales,Parada,41.6104349379463,-4.68186796267344,,http://www.auvasa.es/mapa-de-servicios/?parada=575,,,Europe/Madrid
 528,1404,Calle Cometa esq. Cosmologia,Parada,41.6551863573248,-4.6997721211106,,http://www.auvasa.es/mapa-de-servicios/?parada=528,,,Europe/Madrid
 2411,1405,Plaza Doctor Quemada frente Iglesia Santo Domingo de Guzmán,Parada,41.6328100684792,-4.74135814894217,,http://www.auvasa.es/mapa-de-servicios/?parada=2411,,,Europe/Madrid
-2922,1406,Calle Adolfo Miaja de la Muela frente Nuñez de Guzman,Parada,41.6349868187605,-4.75552812273529,,http://www.auvasa.es/mapa-de-servicios/?parada=2922,,,Europe/Madrid
 2915,1407,Paseo del Obregon esq Brezo,Parada,41.6723886563079,-4.72932840722739,,http://www.auvasa.es/mapa-de-servicios/?parada=2915,,,Europe/Madrid
 2917,1408,El Pinar de Antequera hacia Pte Duero,Parada,41.5879349661796,-4.75586555196679,,http://www.auvasa.es/mapa-de-servicios/?parada=2917,,,Europe/Madrid
 2919,1409,Calle Andrómeda esquina Orden de Malta,Parada,41.6551270078788,-4.70514614640447,,http://www.auvasa.es/mapa-de-servicios/?parada=2919,,,Europe/Madrid
@@ -370,7 +369,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 136,737,Calle Vázquez de Menchaca 5,Parada,41.6246200372996,-4.73174899854382,,http://www.auvasa.es/mapa-de-servicios/?parada=136,,,Europe/Madrid
 137,738,Calle Vázquez de Menchaca 9,Parada,41.6225430366382,-4.73347400459987,,http://www.auvasa.es/mapa-de-servicios/?parada=137,,,Europe/Madrid
 138,742,Calle Adolfo Miaja de la Muela esquina Remigio Cabello Toral,Parada,41.6354016807519,-4.75476236815371,,http://www.auvasa.es/mapa-de-servicios/?parada=138,,,Europe/Madrid
-139,743,Calle Adolfo Miaja de la Muela 6 esquina Hernando de Acuña,Parada,41.6375940654986,-4.75407993336975,,http://www.auvasa.es/mapa-de-servicios/?parada=139,,,Europe/Madrid
 140,744,Calle Mieses frente 40,Parada,41.6535031526874,-4.74427096024068,,http://www.auvasa.es/mapa-de-servicios/?parada=140,,,Europe/Madrid
 141,747,Calle Mieses frente 16,Parada,41.6593980380105,-4.74069999907677,,http://www.auvasa.es/mapa-de-servicios/?parada=141,,,Europe/Madrid
 142,749,Calle Mieses 40,Parada,41.6534774405601,-4.74458484372339,,http://www.auvasa.es/mapa-de-servicios/?parada=142,,,Europe/Madrid
