@@ -98,7 +98,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2944,12226,Calle Vázquez de Menchaca 1 esq. Daniel del Olmo,Parada,41.626836583026,-4.73087696014544,,http://www.auvasa.es/mapa-de-servicios/?parada=2944,,,Europe/Madrid
 2945,12227,Calle Vázquez de Menchaca 4 esq. Daniel del Olmo,Parada,41.6267878628572,-4.73095398701794,,http://www.auvasa.es/mapa-de-servicios/?parada=2945,,,Europe/Madrid
 2971,12228,Calle Vázquez de Menchaca 34,Parada,41.6205250533928,-4.73477047124863,,http://www.auvasa.es/mapa-de-servicios/?parada=2971,,,Europe/Madrid
-3033,12233,Campos Pepe Rojo,Parada,41.6590125469295,-4.6734857924606,,http://www.auvasa.es/mapa-de-servicios/?parada=3033,,,Europe/Madrid
 3048,12234,Avenida Mundial 82 frente Estadio José Zorrilla,Parada,41.6443028217118,-4.75972205410771,,http://www.auvasa.es/mapa-de-servicios/?parada=3048,,,Europe/Madrid
 450,1227,Avenida Entrepinos 52 esquina Tirso de Molina,Parada,41.5702819094993,-4.836736232627,,http://www.auvasa.es/mapa-de-servicios/?parada=450,,,Europe/Madrid
 451,1228,Paseo Zorrilla 10,Parada,41.6469689357638,-4.73146350413824,,http://www.auvasa.es/mapa-de-servicios/?parada=451,,,Europe/Madrid
