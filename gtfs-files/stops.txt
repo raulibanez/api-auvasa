@@ -365,7 +365,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 135,736,Calle Vázquez de Menchaca 19,Parada,41.6204510411647,-4.73455399874407,,http://www.auvasa.es/mapa-de-servicios/?parada=736,,,Europe/Madrid
 136,737,Calle Vázquez de Menchaca 5,Parada,41.6246200372996,-4.73174899854382,,http://www.auvasa.es/mapa-de-servicios/?parada=737,,,Europe/Madrid
 137,738,Calle Vázquez de Menchaca 9,Parada,41.6225430366382,-4.73347400459987,,http://www.auvasa.es/mapa-de-servicios/?parada=738,,,Europe/Madrid
-138,742,Calle Adolfo Miaja de la Muela esquina Remigio Cabello Toral,Parada,41.6354016807519,-4.75476236815371,,http://www.auvasa.es/mapa-de-servicios/?parada=742,,,Europe/Madrid
 140,744,Calle Mieses frente 40,Parada,41.6535031526874,-4.74427096024068,,http://www.auvasa.es/mapa-de-servicios/?parada=744,,,Europe/Madrid
 141,747,Calle Mieses frente 16,Parada,41.6593980380105,-4.74069999907677,,http://www.auvasa.es/mapa-de-servicios/?parada=747,,,Europe/Madrid
 142,749,Calle Mieses 40,Parada,41.6534774405601,-4.74458484372339,,http://www.auvasa.es/mapa-de-servicios/?parada=749,,,Europe/Madrid
@@ -565,3 +564,4 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 348,998,Paseo Zorrilla 130 Centro Comercial,Parada,41.6370320436707,-4.7393199970302,,http://www.auvasa.es/mapa-de-servicios/?parada=998,,,Europe/Madrid
 349,999,Paseo Zorrilla 133 La Rubia,Parada,41.6277797829535,-4.74327838843489,,http://www.auvasa.es/mapa-de-servicios/?parada=999,,,Europe/Madrid
 55,DS00628,Paseo del Cauce Centro Salud Pilarica,Parada,41.6535095659119,-4.71128981341189,,http://www.auvasa.es/mapa-de-servicios/?parada=DS00628,,,Europe/Madrid
+3134,PA1422,José Garrote Tebar esq. Eusebio González Suárez,Parada,41.6341503044481,-4.75596842840634,,http://www.auvasa.es/mapa-de-servicios/?parada=PA1422,,,Europe/Madrid
