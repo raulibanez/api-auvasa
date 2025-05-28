@@ -3,6 +3,7 @@ const routes = express.Router();
 const {
   getParada,
   getParadas,
+  getPanelForParada,
   getAlerts,
   getBusPosition,
   getShapesForTrip,
@@ -122,6 +123,67 @@ routes.get('/parada/:stopCode', async (req, res) => {
   }
 
   const response = await getParada(stopCode);
+  return res.json(response);
+});
+
+/**
+ * @openapi
+ * /parada/{stopCode}/panel:
+ *   get:
+ *     tags:
+ *       - Parada
+ *     summary: Obtiene el panel informativo de una parada específica.
+ *     parameters:
+ *       - name: stopCode
+ *         in: path
+ *         required: true
+ *         description: Código identificador de la parada.
+ *         schema:
+ *           type: string
+ *     responses:
+ *       200:
+ *         description: Panel informativo de la parada.
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 stopCode:
+ *                   type: string
+ *                   description: Código identificador de la parada.
+ *                 panel:
+ *                   type: array
+ *                   description: Lista de próximas llegadas a la parada.
+ *                   items:
+ *                     type: object
+ *                     properties:
+ *                       linea:
+ *                         type: string
+ *                         description: Línea de autobús o tranvía.
+ *                       tiempo:
+ *                         type: string
+ *                         description: Tiempo estimado de llegada.
+ *                       destino:
+ *                         type: string
+ *                         description: Destino de la línea.
+ *                       colorFondo:
+ *                         type: string
+ *                         description: Color de fondo representativo de la línea (hex).
+ *                       colorTexto:
+ *                         type: string
+ *                         description: Color del texto recomendado para la línea (hex).
+ */
+routes.get('/parada/:stopCode/panel', async (req, res) => {
+  const { stopCode } = req.params;
+
+  // Validación igual que en otros endpoints
+  const stopCodeValidation = stopCodeSchema.validate(stopCode);
+  if (stopCodeValidation.error) {
+    return res.status(400).send(stopCodeValidation.error.details[0].message);
+  }
+
+  // Obtener el panel (ajusta si tienes lógica extra)
+  const response = await getPanelForParada(stopCode);
   return res.json(response);
 });
 
