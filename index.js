@@ -3,6 +3,7 @@ const cors = require('cors');
 const swaggerUi = require('swagger-ui-express');
 const swaggerDocument = require('./swagger');
 const v2Routes = require('./routes/v2');
+const healthRoutes = require('./routes/health');
 const { initializeGtfs } = require('./lib/gtfs');
 
 const defaultRoutes = v2Routes;
@@ -17,13 +18,18 @@ app.use(cors({ origin: '*' }));
 (async () => {
   await initializeGtfs();
   // Rutas
+  app.use('/health', healthRoutes);
   app.use('/v2', v2Routes);
   // Swagger
   app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
   app.use('/', defaultRoutes);
 
   // Iniciando el servidor, escuchando...
-  app.listen(app.get('port'), () => {
+  app.listen(app.get('port'), (error) => {
+    if (error) {
+      console.error('Failed to start server:', error);
+      return;
+    }
     console.log(`Server listening on port ${app.get('port')}`);
   });
 })();
